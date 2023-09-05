@@ -1,3 +1,9 @@
 {
-  "featuredProject": "Hangouts"
+  "featuredProject": "Hangouts",
+  "projects": [
+    "shapez",
+    "EmailVerifierDFA",
+    "FUT23-PlayersScraper",
+    "DealorNoDeal"
+  ]
 }
