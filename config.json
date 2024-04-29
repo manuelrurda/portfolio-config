@@ -9,6 +9,18 @@
   "timelineElements": [
     {
       "id": 1,
+      "title": "Software Engineering Intern",
+      "company": "Meta Platforms, Inc.",
+      "location": "New York City, New York",
+      "logoUrl":
+        "https://cdn.worldvectorlogo.com/logos/meta-1.svg",
+      "description":
+        "Incoming SWE intern.",
+      "date": "May 2024 - August 2024",
+      "icon": "work"
+    },
+    {
+      "id": 2,
       "title": "Android Developer Trainee",
       "company": "Dexcom, Inc.",
       "location": "Remote",
@@ -20,7 +32,7 @@
       "icon": "work"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Meta University Intern",
       "company": "Meta Platforms, Inc.",
       "location": "Menlo Park, California",
@@ -32,7 +44,7 @@
       "icon": "work"
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "B.E Computer Engineering",
       "company": "National Autonomous University of Mexico",
       "location": "Mexico City, Mexico",
@@ -41,7 +53,7 @@
       "icon": "education"
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "High School Diploma",
       "company": "Instituto Tecnológico y de Estudios Superiores de Monterrey",
       "location": "Mexico City, Mexico",
